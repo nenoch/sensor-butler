@@ -20,3 +20,6 @@ https://www.raspberrypi.org/documentation/linux/usage/cron.md
 
 *git on Raspberry Pi*   
 https://projects.raspberrypi.org/en/projects/getting-started-with-git
+
+*Self-updating apps using Docker*   
+https://medium.com/imont/self-updating-iot-apps-on-the-raspberry-pi-using-docker-a0b223fd4eeb
