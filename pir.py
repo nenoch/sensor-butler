@@ -1,5 +1,4 @@
 from gpiozero import MotionSensor
-import time
 import json
 import requests
 
