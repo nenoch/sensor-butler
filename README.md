@@ -3,7 +3,7 @@
 
 ##### _A Raspberry Pi device to share a message on a slack channel when the door is opened._
 
-![Raspberry Pi & PIR sensor](./imgs/IMG_6392.jpg)  
+![Raspberry Pi & PIR sensor](./imgs/IMG_6392.JPG)  
 
 **1) Slack & Webhooks**    
 Create a slack team for prototyping purposes and your first slack App. You will need a incoming webhook url to send the POST request with your message to slack.  
