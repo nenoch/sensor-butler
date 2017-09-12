@@ -27,9 +27,9 @@ _For easy setup_
 * USB Wi-Fi adaptor
 * USB Bluetooth adaptor
 
-![wiring detail 1](./imgs/IMG_6393.jpg) | ![wiring detail 2](./imgs/IMG_6394.jpg)
+![wiring detail 1](./imgs/IMG_6393.JPG) | ![wiring detail 2](./imgs/IMG_6394.JPG)
 ------------ | -------------
-![wiring detail 3](./imgs/IMG_6395.jpg) | ![wiring detail 4](./imgs/IMG_6396.jpg)
+![wiring detail 3](./imgs/IMG_6395.JPG) | ![wiring detail 4](./imgs/IMG_6396.JPG)
 
 https://www.hackster.io/hardikrathod/pir-motion-sensor-with-raspberry-pi-415c04
 https://www.raspberrypi.org/learning/parent-detector/worksheet/
