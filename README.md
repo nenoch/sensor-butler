@@ -8,7 +8,7 @@
 **1) Slack & Webhooks**    
 Create a slack team for prototyping purposes and your first slack App. You will need a incoming webhook url to send the POST request with your message to slack.
 
-**_~ Resources ~_**    
+_**~ Resources ~**_    
 https://api.slack.com/tutorials/slack-apps-hello-world  
 
 Try out your incoming webhook in the terminal:
