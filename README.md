@@ -1,4 +1,4 @@
-# Sensor Butler :bowtie:
+# Sensor Butler <span style="font-size: 30px;">:bowtie:</span>
 
 > _A Raspberry Pi device to share a message on a slack channel when a door is opened._
 
