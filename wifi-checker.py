@@ -1,5 +1,5 @@
-import pir
 import urllib2
+import pir
 
 while True:
     try:
@@ -8,5 +8,5 @@ while True:
         print('Not Connected yet')
     else:
         print('Connected to WiFi')
-        pir
+        pir.startSensor()
         exit()
